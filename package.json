@@ -1,9 +1,9 @@
 {
-  "name": "frontend-aee",
+  "name": "projeto-aee",
   "version": "0.0.1",
-  "description": "A Quasar Framework app",
-  "productName": "Quasar App",
+  "description": "Frontend do projeto AEE",
   "author": "Luiz Henrique <luizhsou1@gmail.com>",
+  "productName": "Projeto Aee",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue ./",
@@ -13,18 +13,25 @@
     "@quasar/extras": "^1.0.0",
     "axios": "^0.18.1",
     "core-js": "^3.6.5",
-    "quasar": "^1.0.0"
+    "quasar": "^1.0.0",
+    "vue-moment": "^4.1.0",
+    "vuelidate": "^0.7.5",
+    "v-mask": "^2.2.3"
   },
   "devDependencies": {
     "@quasar/app": "^2.0.0",
     "babel-eslint": "^10.0.1",
     "eslint": "^6.8.0",
-    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-standard": "^14.1.0",
     "eslint-loader": "^3.0.3",
-    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
     "eslint-plugin-vue": "^6.1.2"
   },
   "browserslist": [
+    "ie >= 11",
     "last 10 Chrome versions",
     "last 10 Firefox versions",
     "last 4 Edge versions",

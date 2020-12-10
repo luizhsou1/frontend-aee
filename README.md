@@ -1,6 +1,6 @@
-# Quasar App (frontend-aee)
+# Projeto Aee (projeto-aee)
 
-A Quasar Framework app
+Sistema para ajudar na gestão de formularios de crianças
 
 ## Install the dependencies
 ```bash

@@ -1,0 +1,5 @@
+export const ROLEUSERS = {
+  ADMIN: 'ADMIN',
+  SUPERVISOR: 'SUPERVISOR',
+  TEACHER: 'TEACHER'
+}

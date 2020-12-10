@@ -1,0 +1,4 @@
+{
+  "schools": "schools",
+  "schoolsId": "schools/{id}"
+}
